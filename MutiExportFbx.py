@@ -1,3 +1,6 @@
+#export muti FBX
+
+
 def exportObject():
     obj = hou.node("/obj")
     path = r"D:\python_houdini\export_pratice\export_pratice"
